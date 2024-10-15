@@ -31,15 +31,5 @@
 &trans      &trans        &trans                                                                       &trans                                       &kp RIGHT_ALT                       &kp RWIN         &kp RIGHT_CONTROL
             >;
         };
-
-        layer_2 {
-            bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans          &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans          &trans
-&trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans          &trans  &trans
-&trans  &trans  &trans                                          &trans                  &trans          &trans  &trans
-            >;
-        };
     };
 };
